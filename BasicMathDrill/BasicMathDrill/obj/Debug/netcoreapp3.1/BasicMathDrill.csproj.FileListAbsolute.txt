@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\BasicMathDrill\BasicMathDrill\bin\Debug\netcoreapp3.1\BasicMathDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\BasicMathDrill\BasicMathDrill\bin\Debug\netcoreapp3.1\BasicMathDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\BasicMathDrill\BasicMathDrill\bin\Debug\netcoreapp3.1\BasicMathDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\BasicMathDrill\BasicMathDrill\bin\Debug\netcoreapp3.1\BasicMathDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\BasicMathDrill\BasicMathDrill\bin\Debug\netcoreapp3.1\BasicMathDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\BasicMathDrill\BasicMathDrill\bin\Debug\netcoreapp3.1\BasicMathDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\BasicMathDrill\BasicMathDrill\obj\Debug\netcoreapp3.1\BasicMathDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\BasicMathDrill\BasicMathDrill\obj\Debug\netcoreapp3.1\BasicMathDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\BasicMathDrill\BasicMathDrill\obj\Debug\netcoreapp3.1\BasicMathDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\BasicMathDrill\BasicMathDrill\obj\Debug\netcoreapp3.1\BasicMathDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\BasicMathDrill\BasicMathDrill\obj\Debug\netcoreapp3.1\BasicMathDrill.pdb
