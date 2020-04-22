@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\accountingDrill1\accountingDrill1\bin\Debug\netcoreapp3.1\accountingDrill1.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\accountingDrill1\accountingDrill1\bin\Debug\netcoreapp3.1\accountingDrill1.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\accountingDrill1\accountingDrill1\bin\Debug\netcoreapp3.1\accountingDrill1.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\accountingDrill1\accountingDrill1\bin\Debug\netcoreapp3.1\accountingDrill1.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\accountingDrill1\accountingDrill1\bin\Debug\netcoreapp3.1\accountingDrill1.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\accountingDrill1\accountingDrill1\bin\Debug\netcoreapp3.1\accountingDrill1.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\accountingDrill1\accountingDrill1\obj\Debug\netcoreapp3.1\accountingDrill1.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\accountingDrill1\accountingDrill1\obj\Debug\netcoreapp3.1\accountingDrill1.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\accountingDrill1\accountingDrill1\obj\Debug\netcoreapp3.1\accountingDrill1.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\accountingDrill1\accountingDrill1\obj\Debug\netcoreapp3.1\accountingDrill1.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\accountingDrill1\accountingDrill1\obj\Debug\netcoreapp3.1\accountingDrill1.pdb
