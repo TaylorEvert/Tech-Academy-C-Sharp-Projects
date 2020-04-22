@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AnonIncomeDrill\AnonIncomeDrill\bin\Debug\netcoreapp3.1\AnonIncomeDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AnonIncomeDrill\AnonIncomeDrill\bin\Debug\netcoreapp3.1\AnonIncomeDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AnonIncomeDrill\AnonIncomeDrill\bin\Debug\netcoreapp3.1\AnonIncomeDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AnonIncomeDrill\AnonIncomeDrill\bin\Debug\netcoreapp3.1\AnonIncomeDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AnonIncomeDrill\AnonIncomeDrill\bin\Debug\netcoreapp3.1\AnonIncomeDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AnonIncomeDrill\AnonIncomeDrill\bin\Debug\netcoreapp3.1\AnonIncomeDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AnonIncomeDrill\AnonIncomeDrill\obj\Debug\netcoreapp3.1\AnonIncomeDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AnonIncomeDrill\AnonIncomeDrill\obj\Debug\netcoreapp3.1\AnonIncomeDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AnonIncomeDrill\AnonIncomeDrill\obj\Debug\netcoreapp3.1\AnonIncomeDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AnonIncomeDrill\AnonIncomeDrill\obj\Debug\netcoreapp3.1\AnonIncomeDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AnonIncomeDrill\AnonIncomeDrill\obj\Debug\netcoreapp3.1\AnonIncomeDrill.pdb
