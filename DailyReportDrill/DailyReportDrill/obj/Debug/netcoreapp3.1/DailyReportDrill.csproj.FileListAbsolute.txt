@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\DailyReportDrill\DailyReportDrill\bin\Debug\netcoreapp3.1\DailyReportDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\DailyReportDrill\DailyReportDrill\bin\Debug\netcoreapp3.1\DailyReportDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\DailyReportDrill\DailyReportDrill\bin\Debug\netcoreapp3.1\DailyReportDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\DailyReportDrill\DailyReportDrill\bin\Debug\netcoreapp3.1\DailyReportDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\DailyReportDrill\DailyReportDrill\bin\Debug\netcoreapp3.1\DailyReportDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\DailyReportDrill\DailyReportDrill\bin\Debug\netcoreapp3.1\DailyReportDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\DailyReportDrill\DailyReportDrill\obj\Debug\netcoreapp3.1\DailyReportDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\DailyReportDrill\DailyReportDrill\obj\Debug\netcoreapp3.1\DailyReportDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\DailyReportDrill\DailyReportDrill\obj\Debug\netcoreapp3.1\DailyReportDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\DailyReportDrill\DailyReportDrill\obj\Debug\netcoreapp3.1\DailyReportDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\DailyReportDrill\DailyReportDrill\obj\Debug\netcoreapp3.1\DailyReportDrill.pdb
