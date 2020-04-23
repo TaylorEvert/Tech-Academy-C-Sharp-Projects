@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InsuranceDrill\InsuranceDrill\bin\Debug\netcoreapp3.1\InsuranceDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InsuranceDrill\InsuranceDrill\bin\Debug\netcoreapp3.1\InsuranceDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InsuranceDrill\InsuranceDrill\bin\Debug\netcoreapp3.1\InsuranceDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InsuranceDrill\InsuranceDrill\bin\Debug\netcoreapp3.1\InsuranceDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InsuranceDrill\InsuranceDrill\bin\Debug\netcoreapp3.1\InsuranceDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InsuranceDrill\InsuranceDrill\bin\Debug\netcoreapp3.1\InsuranceDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InsuranceDrill\InsuranceDrill\obj\Debug\netcoreapp3.1\InsuranceDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InsuranceDrill\InsuranceDrill\obj\Debug\netcoreapp3.1\InsuranceDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InsuranceDrill\InsuranceDrill\obj\Debug\netcoreapp3.1\InsuranceDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InsuranceDrill\InsuranceDrill\obj\Debug\netcoreapp3.1\InsuranceDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InsuranceDrill\InsuranceDrill\obj\Debug\netcoreapp3.1\InsuranceDrill.pdb
