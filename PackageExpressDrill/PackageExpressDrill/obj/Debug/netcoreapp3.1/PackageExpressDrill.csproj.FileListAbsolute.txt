@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\PackageExpressDrill\PackageExpressDrill\bin\Debug\netcoreapp3.1\PackageExpressDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\PackageExpressDrill\PackageExpressDrill\bin\Debug\netcoreapp3.1\PackageExpressDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\PackageExpressDrill\PackageExpressDrill\bin\Debug\netcoreapp3.1\PackageExpressDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\PackageExpressDrill\PackageExpressDrill\bin\Debug\netcoreapp3.1\PackageExpressDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\PackageExpressDrill\PackageExpressDrill\bin\Debug\netcoreapp3.1\PackageExpressDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\PackageExpressDrill\PackageExpressDrill\bin\Debug\netcoreapp3.1\PackageExpressDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\PackageExpressDrill\PackageExpressDrill\obj\Debug\netcoreapp3.1\PackageExpressDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\PackageExpressDrill\PackageExpressDrill\obj\Debug\netcoreapp3.1\PackageExpressDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\PackageExpressDrill\PackageExpressDrill\obj\Debug\netcoreapp3.1\PackageExpressDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\PackageExpressDrill\PackageExpressDrill\obj\Debug\netcoreapp3.1\PackageExpressDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\PackageExpressDrill\PackageExpressDrill\obj\Debug\netcoreapp3.1\PackageExpressDrill.pdb
