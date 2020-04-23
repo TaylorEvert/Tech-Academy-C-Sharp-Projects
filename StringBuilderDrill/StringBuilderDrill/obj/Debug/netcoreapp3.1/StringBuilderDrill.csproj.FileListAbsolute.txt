@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StringBuilderDrill\StringBuilderDrill\bin\Debug\netcoreapp3.1\StringBuilderDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StringBuilderDrill\StringBuilderDrill\bin\Debug\netcoreapp3.1\StringBuilderDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StringBuilderDrill\StringBuilderDrill\bin\Debug\netcoreapp3.1\StringBuilderDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StringBuilderDrill\StringBuilderDrill\bin\Debug\netcoreapp3.1\StringBuilderDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StringBuilderDrill\StringBuilderDrill\bin\Debug\netcoreapp3.1\StringBuilderDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StringBuilderDrill\StringBuilderDrill\bin\Debug\netcoreapp3.1\StringBuilderDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StringBuilderDrill\StringBuilderDrill\obj\Debug\netcoreapp3.1\StringBuilderDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StringBuilderDrill\StringBuilderDrill\obj\Debug\netcoreapp3.1\StringBuilderDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StringBuilderDrill\StringBuilderDrill\obj\Debug\netcoreapp3.1\StringBuilderDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StringBuilderDrill\StringBuilderDrill\obj\Debug\netcoreapp3.1\StringBuilderDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StringBuilderDrill\StringBuilderDrill\obj\Debug\netcoreapp3.1\StringBuilderDrill.pdb
