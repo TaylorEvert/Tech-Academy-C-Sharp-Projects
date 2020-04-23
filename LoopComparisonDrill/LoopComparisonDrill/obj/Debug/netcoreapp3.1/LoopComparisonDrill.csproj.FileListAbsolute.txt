@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\LoopComparisonDrill\LoopComparisonDrill\bin\Debug\netcoreapp3.1\LoopComparisonDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\LoopComparisonDrill\LoopComparisonDrill\bin\Debug\netcoreapp3.1\LoopComparisonDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\LoopComparisonDrill\LoopComparisonDrill\bin\Debug\netcoreapp3.1\LoopComparisonDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\LoopComparisonDrill\LoopComparisonDrill\bin\Debug\netcoreapp3.1\LoopComparisonDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\LoopComparisonDrill\LoopComparisonDrill\bin\Debug\netcoreapp3.1\LoopComparisonDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\LoopComparisonDrill\LoopComparisonDrill\bin\Debug\netcoreapp3.1\LoopComparisonDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\LoopComparisonDrill\LoopComparisonDrill\obj\Debug\netcoreapp3.1\LoopComparisonDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\LoopComparisonDrill\LoopComparisonDrill\obj\Debug\netcoreapp3.1\LoopComparisonDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\LoopComparisonDrill\LoopComparisonDrill\obj\Debug\netcoreapp3.1\LoopComparisonDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\LoopComparisonDrill\LoopComparisonDrill\obj\Debug\netcoreapp3.1\LoopComparisonDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\LoopComparisonDrill\LoopComparisonDrill\obj\Debug\netcoreapp3.1\LoopComparisonDrill.pdb
