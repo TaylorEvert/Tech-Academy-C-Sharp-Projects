@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArrayDrill\ArrayDrill\bin\Debug\netcoreapp3.1\ArrayDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArrayDrill\ArrayDrill\bin\Debug\netcoreapp3.1\ArrayDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArrayDrill\ArrayDrill\bin\Debug\netcoreapp3.1\ArrayDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArrayDrill\ArrayDrill\bin\Debug\netcoreapp3.1\ArrayDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArrayDrill\ArrayDrill\bin\Debug\netcoreapp3.1\ArrayDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArrayDrill\ArrayDrill\bin\Debug\netcoreapp3.1\ArrayDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArrayDrill\ArrayDrill\obj\Debug\netcoreapp3.1\ArrayDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArrayDrill\ArrayDrill\obj\Debug\netcoreapp3.1\ArrayDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArrayDrill\ArrayDrill\obj\Debug\netcoreapp3.1\ArrayDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArrayDrill\ArrayDrill\obj\Debug\netcoreapp3.1\ArrayDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArrayDrill\ArrayDrill\obj\Debug\netcoreapp3.1\ArrayDrill.pdb
