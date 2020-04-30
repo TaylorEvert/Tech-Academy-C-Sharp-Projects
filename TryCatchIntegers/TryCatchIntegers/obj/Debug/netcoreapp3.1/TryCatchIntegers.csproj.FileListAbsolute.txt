@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\TryCatchIntegers\TryCatchIntegers\bin\Debug\netcoreapp3.1\TryCatchIntegers.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\TryCatchIntegers\TryCatchIntegers\bin\Debug\netcoreapp3.1\TryCatchIntegers.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\TryCatchIntegers\TryCatchIntegers\bin\Debug\netcoreapp3.1\TryCatchIntegers.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\TryCatchIntegers\TryCatchIntegers\bin\Debug\netcoreapp3.1\TryCatchIntegers.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\TryCatchIntegers\TryCatchIntegers\bin\Debug\netcoreapp3.1\TryCatchIntegers.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\TryCatchIntegers\TryCatchIntegers\bin\Debug\netcoreapp3.1\TryCatchIntegers.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\TryCatchIntegers\TryCatchIntegers\obj\Debug\netcoreapp3.1\TryCatchIntegers.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\TryCatchIntegers\TryCatchIntegers\obj\Debug\netcoreapp3.1\TryCatchIntegers.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\TryCatchIntegers\TryCatchIntegers\obj\Debug\netcoreapp3.1\TryCatchIntegers.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\TryCatchIntegers\TryCatchIntegers\obj\Debug\netcoreapp3.1\TryCatchIntegers.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\TryCatchIntegers\TryCatchIntegers\obj\Debug\netcoreapp3.1\TryCatchIntegers.pdb
