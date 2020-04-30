@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArraysListsLoopsDrill\ArraysListsLoopsDrill\bin\Debug\netcoreapp3.1\ArraysListsLoopsDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArraysListsLoopsDrill\ArraysListsLoopsDrill\bin\Debug\netcoreapp3.1\ArraysListsLoopsDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArraysListsLoopsDrill\ArraysListsLoopsDrill\bin\Debug\netcoreapp3.1\ArraysListsLoopsDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArraysListsLoopsDrill\ArraysListsLoopsDrill\bin\Debug\netcoreapp3.1\ArraysListsLoopsDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArraysListsLoopsDrill\ArraysListsLoopsDrill\bin\Debug\netcoreapp3.1\ArraysListsLoopsDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArraysListsLoopsDrill\ArraysListsLoopsDrill\bin\Debug\netcoreapp3.1\ArraysListsLoopsDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArraysListsLoopsDrill\ArraysListsLoopsDrill\obj\Debug\netcoreapp3.1\ArraysListsLoopsDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArraysListsLoopsDrill\ArraysListsLoopsDrill\obj\Debug\netcoreapp3.1\ArraysListsLoopsDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArraysListsLoopsDrill\ArraysListsLoopsDrill\obj\Debug\netcoreapp3.1\ArraysListsLoopsDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArraysListsLoopsDrill\ArraysListsLoopsDrill\obj\Debug\netcoreapp3.1\ArraysListsLoopsDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ArraysListsLoopsDrill\ArraysListsLoopsDrill\obj\Debug\netcoreapp3.1\ArraysListsLoopsDrill.pdb
