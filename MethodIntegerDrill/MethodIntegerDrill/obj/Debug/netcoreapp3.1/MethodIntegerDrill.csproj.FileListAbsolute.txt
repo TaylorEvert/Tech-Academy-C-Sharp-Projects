@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\MethodIntegerDrill\MethodIntegerDrill\bin\Debug\netcoreapp3.1\MethodIntegerDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\MethodIntegerDrill\MethodIntegerDrill\bin\Debug\netcoreapp3.1\MethodIntegerDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\MethodIntegerDrill\MethodIntegerDrill\bin\Debug\netcoreapp3.1\MethodIntegerDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\MethodIntegerDrill\MethodIntegerDrill\bin\Debug\netcoreapp3.1\MethodIntegerDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\MethodIntegerDrill\MethodIntegerDrill\bin\Debug\netcoreapp3.1\MethodIntegerDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\MethodIntegerDrill\MethodIntegerDrill\bin\Debug\netcoreapp3.1\MethodIntegerDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\MethodIntegerDrill\MethodIntegerDrill\obj\Debug\netcoreapp3.1\MethodIntegerDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\MethodIntegerDrill\MethodIntegerDrill\obj\Debug\netcoreapp3.1\MethodIntegerDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\MethodIntegerDrill\MethodIntegerDrill\obj\Debug\netcoreapp3.1\MethodIntegerDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\MethodIntegerDrill\MethodIntegerDrill\obj\Debug\netcoreapp3.1\MethodIntegerDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\MethodIntegerDrill\MethodIntegerDrill\obj\Debug\netcoreapp3.1\MethodIntegerDrill.pdb
