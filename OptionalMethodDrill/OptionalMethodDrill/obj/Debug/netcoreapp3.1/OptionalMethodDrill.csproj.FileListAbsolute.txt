@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OptionalMethodDrill\OptionalMethodDrill\bin\Debug\netcoreapp3.1\OptionalMethodDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OptionalMethodDrill\OptionalMethodDrill\bin\Debug\netcoreapp3.1\OptionalMethodDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OptionalMethodDrill\OptionalMethodDrill\bin\Debug\netcoreapp3.1\OptionalMethodDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OptionalMethodDrill\OptionalMethodDrill\bin\Debug\netcoreapp3.1\OptionalMethodDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OptionalMethodDrill\OptionalMethodDrill\bin\Debug\netcoreapp3.1\OptionalMethodDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OptionalMethodDrill\OptionalMethodDrill\bin\Debug\netcoreapp3.1\OptionalMethodDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OptionalMethodDrill\OptionalMethodDrill\obj\Debug\netcoreapp3.1\OptionalMethodDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OptionalMethodDrill\OptionalMethodDrill\obj\Debug\netcoreapp3.1\OptionalMethodDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OptionalMethodDrill\OptionalMethodDrill\obj\Debug\netcoreapp3.1\OptionalMethodDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OptionalMethodDrill\OptionalMethodDrill\obj\Debug\netcoreapp3.1\OptionalMethodDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OptionalMethodDrill\OptionalMethodDrill\obj\Debug\netcoreapp3.1\OptionalMethodDrill.pdb
