@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ClassVoidDrill\ClassVoidDrill\obj\Debug\netcoreapp3.1\ClassVoidDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ClassVoidDrill\ClassVoidDrill\obj\Debug\netcoreapp3.1\ClassVoidDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ClassVoidDrill\ClassVoidDrill\obj\Debug\netcoreapp3.1\ClassVoidDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ClassVoidDrill\ClassVoidDrill\bin\Debug\netcoreapp3.1\ClassVoidDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ClassVoidDrill\ClassVoidDrill\bin\Debug\netcoreapp3.1\ClassVoidDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ClassVoidDrill\ClassVoidDrill\bin\Debug\netcoreapp3.1\ClassVoidDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ClassVoidDrill\ClassVoidDrill\bin\Debug\netcoreapp3.1\ClassVoidDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ClassVoidDrill\ClassVoidDrill\bin\Debug\netcoreapp3.1\ClassVoidDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ClassVoidDrill\ClassVoidDrill\bin\Debug\netcoreapp3.1\ClassVoidDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ClassVoidDrill\ClassVoidDrill\obj\Debug\netcoreapp3.1\ClassVoidDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\ClassVoidDrill\ClassVoidDrill\obj\Debug\netcoreapp3.1\ClassVoidDrill.pdb
