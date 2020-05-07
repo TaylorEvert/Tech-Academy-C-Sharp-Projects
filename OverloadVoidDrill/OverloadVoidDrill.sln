@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadVoidDrill", "OverloadVoidDrill\OverloadVoidDrill.csproj", "{C4657671-923A-4DE5-AF91-4AE1A7B77DD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4657671-923A-4DE5-AF91-4AE1A7B77DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4657671-923A-4DE5-AF91-4AE1A7B77DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4657671-923A-4DE5-AF91-4AE1A7B77DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4657671-923A-4DE5-AF91-4AE1A7B77DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AB83E85-D809-4461-A484-397F5861C1B8}
+	EndGlobalSection
+EndGlobal
