@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OverloadVoidDrill\OverloadVoidDrill\obj\Debug\netcoreapp3.1\OverloadVoidDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OverloadVoidDrill\OverloadVoidDrill\obj\Debug\netcoreapp3.1\OverloadVoidDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OverloadVoidDrill\OverloadVoidDrill\obj\Debug\netcoreapp3.1\OverloadVoidDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OverloadVoidDrill\OverloadVoidDrill\bin\Debug\netcoreapp3.1\OverloadVoidDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OverloadVoidDrill\OverloadVoidDrill\bin\Debug\netcoreapp3.1\OverloadVoidDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OverloadVoidDrill\OverloadVoidDrill\bin\Debug\netcoreapp3.1\OverloadVoidDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OverloadVoidDrill\OverloadVoidDrill\bin\Debug\netcoreapp3.1\OverloadVoidDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OverloadVoidDrill\OverloadVoidDrill\bin\Debug\netcoreapp3.1\OverloadVoidDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OverloadVoidDrill\OverloadVoidDrill\bin\Debug\netcoreapp3.1\OverloadVoidDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OverloadVoidDrill\OverloadVoidDrill\obj\Debug\netcoreapp3.1\OverloadVoidDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OverloadVoidDrill\OverloadVoidDrill\obj\Debug\netcoreapp3.1\OverloadVoidDrill.pdb
