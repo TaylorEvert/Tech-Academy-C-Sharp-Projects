@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\SuperClassDrill\SuperClassDrill\bin\Debug\netcoreapp3.1\SuperClassDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\SuperClassDrill\SuperClassDrill\bin\Debug\netcoreapp3.1\SuperClassDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\SuperClassDrill\SuperClassDrill\bin\Debug\netcoreapp3.1\SuperClassDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\SuperClassDrill\SuperClassDrill\bin\Debug\netcoreapp3.1\SuperClassDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\SuperClassDrill\SuperClassDrill\bin\Debug\netcoreapp3.1\SuperClassDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\SuperClassDrill\SuperClassDrill\bin\Debug\netcoreapp3.1\SuperClassDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\SuperClassDrill\SuperClassDrill\obj\Debug\netcoreapp3.1\SuperClassDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\SuperClassDrill\SuperClassDrill\obj\Debug\netcoreapp3.1\SuperClassDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\SuperClassDrill\SuperClassDrill\obj\Debug\netcoreapp3.1\SuperClassDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\SuperClassDrill\SuperClassDrill\obj\Debug\netcoreapp3.1\SuperClassDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\SuperClassDrill\SuperClassDrill\obj\Debug\netcoreapp3.1\SuperClassDrill.pdb
