@@ -11,7 +11,7 @@ namespace OptionalMethodDrill
             Console.WriteLine("Please enter another whole number. This is optional: ");
             int results;
             string answerTwo = Console.ReadLine();
-            if (answerTwo == null)
+            if (answerTwo == "")
             {
                 results = Methods.OptionalMethod(answerOne);
             }
