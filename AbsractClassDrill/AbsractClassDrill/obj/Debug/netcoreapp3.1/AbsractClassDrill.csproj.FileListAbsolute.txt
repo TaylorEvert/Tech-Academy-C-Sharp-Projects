@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AbsractClassDrill\AbsractClassDrill\bin\Debug\netcoreapp3.1\AbsractClassDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AbsractClassDrill\AbsractClassDrill\bin\Debug\netcoreapp3.1\AbsractClassDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AbsractClassDrill\AbsractClassDrill\bin\Debug\netcoreapp3.1\AbsractClassDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AbsractClassDrill\AbsractClassDrill\bin\Debug\netcoreapp3.1\AbsractClassDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AbsractClassDrill\AbsractClassDrill\bin\Debug\netcoreapp3.1\AbsractClassDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AbsractClassDrill\AbsractClassDrill\bin\Debug\netcoreapp3.1\AbsractClassDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AbsractClassDrill\AbsractClassDrill\obj\Debug\netcoreapp3.1\AbsractClassDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AbsractClassDrill\AbsractClassDrill\obj\Debug\netcoreapp3.1\AbsractClassDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AbsractClassDrill\AbsractClassDrill\obj\Debug\netcoreapp3.1\AbsractClassDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AbsractClassDrill\AbsractClassDrill\obj\Debug\netcoreapp3.1\AbsractClassDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\AbsractClassDrill\AbsractClassDrill\obj\Debug\netcoreapp3.1\AbsractClassDrill.pdb
