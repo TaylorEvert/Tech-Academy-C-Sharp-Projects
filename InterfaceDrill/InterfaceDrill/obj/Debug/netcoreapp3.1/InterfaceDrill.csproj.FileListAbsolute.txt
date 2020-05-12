@@ -1,0 +1,10 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InterfaceDrill\InterfaceDrill\bin\Debug\netcoreapp3.1\InterfaceDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InterfaceDrill\InterfaceDrill\bin\Debug\netcoreapp3.1\InterfaceDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InterfaceDrill\InterfaceDrill\bin\Debug\netcoreapp3.1\InterfaceDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InterfaceDrill\InterfaceDrill\bin\Debug\netcoreapp3.1\InterfaceDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InterfaceDrill\InterfaceDrill\bin\Debug\netcoreapp3.1\InterfaceDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InterfaceDrill\InterfaceDrill\bin\Debug\netcoreapp3.1\InterfaceDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InterfaceDrill\InterfaceDrill\obj\Debug\netcoreapp3.1\InterfaceDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InterfaceDrill\InterfaceDrill\obj\Debug\netcoreapp3.1\InterfaceDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InterfaceDrill\InterfaceDrill\obj\Debug\netcoreapp3.1\InterfaceDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\InterfaceDrill\InterfaceDrill\obj\Debug\netcoreapp3.1\InterfaceDrill.pdb
