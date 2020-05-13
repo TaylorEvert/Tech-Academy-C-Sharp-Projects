@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OperatorOverloadDrill\OperatorOverloadDrill\obj\Debug\netcoreapp3.1\OperatorOverloadDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OperatorOverloadDrill\OperatorOverloadDrill\obj\Debug\netcoreapp3.1\OperatorOverloadDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OperatorOverloadDrill\OperatorOverloadDrill\obj\Debug\netcoreapp3.1\OperatorOverloadDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OperatorOverloadDrill\OperatorOverloadDrill\bin\Debug\netcoreapp3.1\OperatorOverloadDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OperatorOverloadDrill\OperatorOverloadDrill\bin\Debug\netcoreapp3.1\OperatorOverloadDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OperatorOverloadDrill\OperatorOverloadDrill\bin\Debug\netcoreapp3.1\OperatorOverloadDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OperatorOverloadDrill\OperatorOverloadDrill\bin\Debug\netcoreapp3.1\OperatorOverloadDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OperatorOverloadDrill\OperatorOverloadDrill\bin\Debug\netcoreapp3.1\OperatorOverloadDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OperatorOverloadDrill\OperatorOverloadDrill\bin\Debug\netcoreapp3.1\OperatorOverloadDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OperatorOverloadDrill\OperatorOverloadDrill\obj\Debug\netcoreapp3.1\OperatorOverloadDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\OperatorOverloadDrill\OperatorOverloadDrill\obj\Debug\netcoreapp3.1\OperatorOverloadDrill.pdb

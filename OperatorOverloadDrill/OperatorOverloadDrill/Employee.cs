@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OperatorOverloadDrill
 {
-    class Employee: Person, IQuittable
+    class Employee : Person, IQuittable
     {
         public int Id { get; set; }
 
@@ -21,7 +21,7 @@ namespace OperatorOverloadDrill
         public static bool operator ==(Employee X, Employee Y)
         {
             bool status = false;
-            if (X == Y)
+            if (X.Id == Y.Id)
             {
                 status = true;
             }
@@ -31,10 +31,11 @@ namespace OperatorOverloadDrill
         public static bool operator !=(Employee X, Employee Y)
         {
             bool status = true;
-            if (X != Y)
+            if (X.Id != Y.Id)
             {
                 status = false;
             }
             return status;
         }
+    }
 }
