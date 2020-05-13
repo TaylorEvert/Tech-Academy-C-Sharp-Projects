@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\GenericsDrill\GenericsDrill\bin\Debug\netcoreapp3.1\GenericsDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\GenericsDrill\GenericsDrill\bin\Debug\netcoreapp3.1\GenericsDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\GenericsDrill\GenericsDrill\bin\Debug\netcoreapp3.1\GenericsDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\GenericsDrill\GenericsDrill\bin\Debug\netcoreapp3.1\GenericsDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\GenericsDrill\GenericsDrill\bin\Debug\netcoreapp3.1\GenericsDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\GenericsDrill\GenericsDrill\bin\Debug\netcoreapp3.1\GenericsDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\GenericsDrill\GenericsDrill\obj\Debug\netcoreapp3.1\GenericsDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\GenericsDrill\GenericsDrill\obj\Debug\netcoreapp3.1\GenericsDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\GenericsDrill\GenericsDrill\obj\Debug\netcoreapp3.1\GenericsDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\GenericsDrill\GenericsDrill\obj\Debug\netcoreapp3.1\GenericsDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\GenericsDrill\GenericsDrill\obj\Debug\netcoreapp3.1\GenericsDrill.pdb
