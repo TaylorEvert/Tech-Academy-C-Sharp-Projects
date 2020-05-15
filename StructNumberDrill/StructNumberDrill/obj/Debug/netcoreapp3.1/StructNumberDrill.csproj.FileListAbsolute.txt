@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StructNumberDrill\StructNumberDrill\bin\Debug\netcoreapp3.1\StructNumberDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StructNumberDrill\StructNumberDrill\bin\Debug\netcoreapp3.1\StructNumberDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StructNumberDrill\StructNumberDrill\bin\Debug\netcoreapp3.1\StructNumberDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StructNumberDrill\StructNumberDrill\bin\Debug\netcoreapp3.1\StructNumberDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StructNumberDrill\StructNumberDrill\bin\Debug\netcoreapp3.1\StructNumberDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StructNumberDrill\StructNumberDrill\bin\Debug\netcoreapp3.1\StructNumberDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StructNumberDrill\StructNumberDrill\obj\Debug\netcoreapp3.1\StructNumberDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StructNumberDrill\StructNumberDrill\obj\Debug\netcoreapp3.1\StructNumberDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StructNumberDrill\StructNumberDrill\obj\Debug\netcoreapp3.1\StructNumberDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StructNumberDrill\StructNumberDrill\obj\Debug\netcoreapp3.1\StructNumberDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\StructNumberDrill\StructNumberDrill\obj\Debug\netcoreapp3.1\StructNumberDrill.pdb

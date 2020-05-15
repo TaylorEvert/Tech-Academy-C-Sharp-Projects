@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StructNumberDrill/1.0.0": {
+        "runtime": {
+          "StructNumberDrill.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StructNumberDrill/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
