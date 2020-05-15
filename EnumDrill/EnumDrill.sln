@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumDrill", "EnumDrill\EnumDrill.csproj", "{262CC0F0-598A-4397-85D9-CF5F0620116E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{262CC0F0-598A-4397-85D9-CF5F0620116E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{262CC0F0-598A-4397-85D9-CF5F0620116E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{262CC0F0-598A-4397-85D9-CF5F0620116E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{262CC0F0-598A-4397-85D9-CF5F0620116E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB9019B9-1F8F-4CE6-827D-D63B94E72424}
+	EndGlobalSection
+EndGlobal

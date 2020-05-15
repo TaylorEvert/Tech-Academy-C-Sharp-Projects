@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\EnumDrill\EnumDrill\bin\Debug\netcoreapp3.1\EnumDrill.exe
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\EnumDrill\EnumDrill\bin\Debug\netcoreapp3.1\EnumDrill.deps.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\EnumDrill\EnumDrill\bin\Debug\netcoreapp3.1\EnumDrill.runtimeconfig.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\EnumDrill\EnumDrill\bin\Debug\netcoreapp3.1\EnumDrill.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\EnumDrill\EnumDrill\bin\Debug\netcoreapp3.1\EnumDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\EnumDrill\EnumDrill\bin\Debug\netcoreapp3.1\EnumDrill.pdb
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\EnumDrill\EnumDrill\obj\Debug\netcoreapp3.1\EnumDrill.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\EnumDrill\EnumDrill\obj\Debug\netcoreapp3.1\EnumDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\EnumDrill\EnumDrill\obj\Debug\netcoreapp3.1\EnumDrill.AssemblyInfo.cs
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\EnumDrill\EnumDrill\obj\Debug\netcoreapp3.1\EnumDrill.dll
+C:\Users\taylo\Desktop\TechAcademy\C#\PracticeDrills\EnumDrill\EnumDrill\obj\Debug\netcoreapp3.1\EnumDrill.pdb
