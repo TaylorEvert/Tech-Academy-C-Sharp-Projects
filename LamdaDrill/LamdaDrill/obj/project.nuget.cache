@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ots5c3tDrCLmWJs4gg+yqTaayPU/V+gNy8jZOOIyHJPhxnsWsh3VIjsx35hydO/VnzSkrGVjimmpnqmPq8x+WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taylo\\OneDrive\\Desktop\\TheTechAcademy\\Tech-Academy-C-Sharp-Projects-master\\LamdaDrill\\LamdaDrill\\LamdaDrill.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taylo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

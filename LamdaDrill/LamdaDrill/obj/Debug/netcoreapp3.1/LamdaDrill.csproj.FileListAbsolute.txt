@@ -1,0 +1,13 @@
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\LamdaDrill\LamdaDrill\bin\Debug\netcoreapp3.1\LamdaDrill.exe
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\LamdaDrill\LamdaDrill\bin\Debug\netcoreapp3.1\LamdaDrill.deps.json
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\LamdaDrill\LamdaDrill\bin\Debug\netcoreapp3.1\LamdaDrill.runtimeconfig.json
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\LamdaDrill\LamdaDrill\bin\Debug\netcoreapp3.1\LamdaDrill.runtimeconfig.dev.json
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\LamdaDrill\LamdaDrill\bin\Debug\netcoreapp3.1\LamdaDrill.dll
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\LamdaDrill\LamdaDrill\bin\Debug\netcoreapp3.1\LamdaDrill.pdb
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\LamdaDrill\LamdaDrill\obj\Debug\netcoreapp3.1\LamdaDrill.csprojAssemblyReference.cache
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\LamdaDrill\LamdaDrill\obj\Debug\netcoreapp3.1\LamdaDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\LamdaDrill\LamdaDrill\obj\Debug\netcoreapp3.1\LamdaDrill.AssemblyInfo.cs
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\LamdaDrill\LamdaDrill\obj\Debug\netcoreapp3.1\LamdaDrill.csproj.CoreCompileInputs.cache
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\LamdaDrill\LamdaDrill\obj\Debug\netcoreapp3.1\LamdaDrill.dll
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\LamdaDrill\LamdaDrill\obj\Debug\netcoreapp3.1\LamdaDrill.pdb
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\LamdaDrill\LamdaDrill\obj\Debug\netcoreapp3.1\LamdaDrill.genruntimeconfig.cache
