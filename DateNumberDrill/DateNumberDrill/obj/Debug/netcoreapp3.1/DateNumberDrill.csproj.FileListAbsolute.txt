@@ -1,0 +1,13 @@
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\DateNumberDrill\DateNumberDrill\bin\Debug\netcoreapp3.1\DateNumberDrill.exe
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\DateNumberDrill\DateNumberDrill\bin\Debug\netcoreapp3.1\DateNumberDrill.deps.json
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\DateNumberDrill\DateNumberDrill\bin\Debug\netcoreapp3.1\DateNumberDrill.runtimeconfig.json
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\DateNumberDrill\DateNumberDrill\bin\Debug\netcoreapp3.1\DateNumberDrill.runtimeconfig.dev.json
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\DateNumberDrill\DateNumberDrill\bin\Debug\netcoreapp3.1\DateNumberDrill.dll
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\DateNumberDrill\DateNumberDrill\bin\Debug\netcoreapp3.1\DateNumberDrill.pdb
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\DateNumberDrill\DateNumberDrill\obj\Debug\netcoreapp3.1\DateNumberDrill.csprojAssemblyReference.cache
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\DateNumberDrill\DateNumberDrill\obj\Debug\netcoreapp3.1\DateNumberDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\DateNumberDrill\DateNumberDrill\obj\Debug\netcoreapp3.1\DateNumberDrill.AssemblyInfo.cs
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\DateNumberDrill\DateNumberDrill\obj\Debug\netcoreapp3.1\DateNumberDrill.csproj.CoreCompileInputs.cache
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\DateNumberDrill\DateNumberDrill\obj\Debug\netcoreapp3.1\DateNumberDrill.dll
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\DateNumberDrill\DateNumberDrill\obj\Debug\netcoreapp3.1\DateNumberDrill.pdb
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\DateNumberDrill\DateNumberDrill\obj\Debug\netcoreapp3.1\DateNumberDrill.genruntimeconfig.cache
