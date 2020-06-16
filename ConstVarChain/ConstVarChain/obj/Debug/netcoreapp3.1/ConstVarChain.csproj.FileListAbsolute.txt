@@ -1,0 +1,13 @@
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\ConstVarChain\ConstVarChain\bin\Debug\netcoreapp3.1\ConstVarChain.exe
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\ConstVarChain\ConstVarChain\bin\Debug\netcoreapp3.1\ConstVarChain.deps.json
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\ConstVarChain\ConstVarChain\bin\Debug\netcoreapp3.1\ConstVarChain.runtimeconfig.json
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\ConstVarChain\ConstVarChain\bin\Debug\netcoreapp3.1\ConstVarChain.runtimeconfig.dev.json
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\ConstVarChain\ConstVarChain\bin\Debug\netcoreapp3.1\ConstVarChain.dll
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\ConstVarChain\ConstVarChain\bin\Debug\netcoreapp3.1\ConstVarChain.pdb
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\ConstVarChain\ConstVarChain\obj\Debug\netcoreapp3.1\ConstVarChain.csprojAssemblyReference.cache
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\ConstVarChain\ConstVarChain\obj\Debug\netcoreapp3.1\ConstVarChain.AssemblyInfoInputs.cache
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\ConstVarChain\ConstVarChain\obj\Debug\netcoreapp3.1\ConstVarChain.AssemblyInfo.cs
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\ConstVarChain\ConstVarChain\obj\Debug\netcoreapp3.1\ConstVarChain.csproj.CoreCompileInputs.cache
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\ConstVarChain\ConstVarChain\obj\Debug\netcoreapp3.1\ConstVarChain.dll
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\ConstVarChain\ConstVarChain\obj\Debug\netcoreapp3.1\ConstVarChain.pdb
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\ConstVarChain\ConstVarChain\obj\Debug\netcoreapp3.1\ConstVarChain.genruntimeconfig.cache
