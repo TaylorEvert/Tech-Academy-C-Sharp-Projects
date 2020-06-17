@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qp7vSKT6DMAsBhVDwzpZpnItNK3jSz/sx5Ju4oGmtLg7N7eVCRcW6cnzv1stA6XUhF4oz1kAmY/Jnz3SHLC+TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taylo\\OneDrive\\Desktop\\TheTechAcademy\\Tech-Academy-C-Sharp-Projects-master\\TryCatchAgeDrill\\TryCatchAgeDrill\\TryCatchAgeDrill.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taylo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\TryCatchAgeDrill\TryCatchAgeDrill\bin\Debug\netcoreapp3.1\TryCatchAgeDrill.exe
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\TryCatchAgeDrill\TryCatchAgeDrill\bin\Debug\netcoreapp3.1\TryCatchAgeDrill.deps.json
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\TryCatchAgeDrill\TryCatchAgeDrill\bin\Debug\netcoreapp3.1\TryCatchAgeDrill.runtimeconfig.json
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\TryCatchAgeDrill\TryCatchAgeDrill\bin\Debug\netcoreapp3.1\TryCatchAgeDrill.runtimeconfig.dev.json
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\TryCatchAgeDrill\TryCatchAgeDrill\bin\Debug\netcoreapp3.1\TryCatchAgeDrill.dll
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\TryCatchAgeDrill\TryCatchAgeDrill\bin\Debug\netcoreapp3.1\TryCatchAgeDrill.pdb
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\TryCatchAgeDrill\TryCatchAgeDrill\obj\Debug\netcoreapp3.1\TryCatchAgeDrill.csprojAssemblyReference.cache
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\TryCatchAgeDrill\TryCatchAgeDrill\obj\Debug\netcoreapp3.1\TryCatchAgeDrill.AssemblyInfoInputs.cache
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\TryCatchAgeDrill\TryCatchAgeDrill\obj\Debug\netcoreapp3.1\TryCatchAgeDrill.AssemblyInfo.cs
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\TryCatchAgeDrill\TryCatchAgeDrill\obj\Debug\netcoreapp3.1\TryCatchAgeDrill.csproj.CoreCompileInputs.cache
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\TryCatchAgeDrill\TryCatchAgeDrill\obj\Debug\netcoreapp3.1\TryCatchAgeDrill.dll
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\TryCatchAgeDrill\TryCatchAgeDrill\obj\Debug\netcoreapp3.1\TryCatchAgeDrill.pdb
+C:\Users\taylo\OneDrive\Desktop\TheTechAcademy\Tech-Academy-C-Sharp-Projects-master\TryCatchAgeDrill\TryCatchAgeDrill\obj\Debug\netcoreapp3.1\TryCatchAgeDrill.genruntimeconfig.cache
