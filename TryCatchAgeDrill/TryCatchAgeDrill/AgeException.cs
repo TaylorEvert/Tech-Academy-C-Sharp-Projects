@@ -9,7 +9,5 @@ namespace TryCatchAgeDrill
         public AgeException()
             : base() { }
 
-        public AgeException(string message)
-            : base(message) { }
     }
 }
